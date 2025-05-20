@@ -1,0 +1,7 @@
+chromadb
+google-generativeai
+Pillow
+requests
+chromadb 
+sentence-transformers
+python-dotenv
